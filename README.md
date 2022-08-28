@@ -24,7 +24,7 @@ Social Network API is a NOSQL Application using Express.js, MongoDB, and Mongoos
 
 ## Purpose
 
-An API for building a Social Network
+An API for building a social network
 
 ### User Story
 
@@ -40,13 +40,10 @@ SO THAT my website can handle large amounts of unstructured data"
 
 - run the 'node server.js' command to start the application in Terminal
 
-- in your browser go to location: <http://localhost:3001/>
+- in your browser go to local host
 
-### How To Use
+-MPM Run Start
 
-- To add funds, type the Name of the transaction, the ammount, and press the add funds button.
-
-- to subtract funds, type the Name of the transaction, the ammount, and press the subtract funds button.
 
 ## Deployment Site
 
